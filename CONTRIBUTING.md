@@ -18,17 +18,6 @@ you can clone any repo by running this command on ur terminal/command prompt
   cd <cloned-repo-directory>
 ```
 
-After that you need to install the dependencies, you can do that by running this command
-( you must have node installed already )
-
-```http
-  npm install
-```
-
-Then, you can start the app
-
-```http
-  npm start
-```
+After that you need to create a folder of your name in ```LeetCode Daily```  and add solution of today's problem in your Name folder.
 
 If you are looking forward to contribute, please check out the contributions.md to get the rules and information for contributing.
